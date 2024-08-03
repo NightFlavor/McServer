@@ -1,0 +1,1073 @@
+[11:02:46] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.15.11
+[11:02:46] [main/INFO]: Loading 52 mods:
+	- alcohol-only 2.0.2
+	- bottledair 2.4
+	- cloth-config 15.0.128
+	   \-- cloth-basic-math 0.6.1
+	- collective 7.80
+	- cratedelight 2024.7.12-1.21-fabric
+	- exlinecopperequipment 1.0.3
+	- fabric-api 0.100.8+1.21
+	   |-- fabric-api-base 0.4.42+6573ed8cd1
+	   |-- fabric-api-lookup-api-v1 1.6.67+b5597344d1
+	   |-- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	   |-- fabric-command-api-v1 1.2.49+f71b366fd1
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd9d1
+	   |-- fabric-commands-v0 0.2.66+df3654b3d1
+	   |-- fabric-content-registries-v0 8.0.15+b5597344d1
+	   |-- fabric-convention-tags-v1 2.0.18+7f945d5bd1
+	   |-- fabric-convention-tags-v2 2.4.2+c111832ad1
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	   |-- fabric-data-attachment-api-v1 1.1.25+6a6dfa19d1
+	   |-- fabric-data-generation-api-v1 20.2.13+16c4ae25d1
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	   |-- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	   |-- fabric-events-interaction-v0 0.7.10+e633f883d1
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
+	   |-- fabric-item-api-v1 11.0.0+afdfc921d1
+	   |-- fabric-item-group-api-v1 4.1.3+78017270d1
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	   |-- fabric-keybindings-v0 0.2.45+df3654b3d1
+	   |-- fabric-lifecycle-events-v1 2.3.11+8f3583aed1
+	   |-- fabric-loot-api-v2 3.0.13+3f89f5a5d1
+	   |-- fabric-loot-api-v3 1.0.1+3f89f5a5d1
+	   |-- fabric-message-api-v1 6.0.13+6573ed8cd1
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	   |-- fabric-networking-api-v1 4.2.0+ab7edbacd1
+	   |-- fabric-object-builder-api-v1 15.1.13+d1321076d1
+	   |-- fabric-particles-v1 4.0.2+6573ed8cd1
+	   |-- fabric-recipe-api-v1 5.0.10+65089712d1
+	   |-- fabric-registry-sync-v0 5.0.26+a5d66753d1
+	   |-- fabric-renderer-api-v1 3.3.0+0ae0b97dd1
+	   |-- fabric-renderer-indigo 1.6.5+48fb1586d1
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b3d1
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	   |-- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	   |-- fabric-rendering-v0 1.1.71+df3654b3d1
+	   |-- fabric-rendering-v1 5.0.5+df16efd0d1
+	   |-- fabric-resource-conditions-api-v1 4.2.1+d153f344d1
+	   |-- fabric-resource-loader-v0 1.2.0+7e687b32d1
+	   |-- fabric-screen-api-v1 2.0.24+b5597344d1
+	   |-- fabric-screen-handler-api-v1 1.3.83+b5597344d1
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	   |-- fabric-transfer-api-v1 5.1.15+3dccd343d1
+	   \-- fabric-transitive-access-wideners-v1 6.0.12+6573ed8cd1
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- java 22
+	- lithium 0.12.7
+	- mergedelytra 1.0.1
+	- minecraft 1.21
+	- replantingcrops 5.4
+	- veindigging 1.0.2+1.21
+[11:02:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/lukas/repos/minecraftserver/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[11:02:47] [main/INFO]: Compatibility level set to JAVA_21
+[11:02:47] [main/INFO]: Loaded configuration file for Lithium: 138 options available, 0 override(s) found
+[11:02:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[11:03:00] [main/INFO]: Registering Item Groups foralcohol-only
+[11:03:00] [main/INFO]: Registering Items for Mod alcohol-only
+[11:03:00] [main/INFO]: Registering ModBlocks for alcohol-only
+[11:03:00] [main/INFO]: Loading mod EntityTypes for alcohol-only
+[11:03:00] [main/INFO]: Registering Entities for alcohol-only
+[11:03:00] [main/INFO]: Hello Fabric world!
+[11:03:00] [main/INFO]: Loading Collective version 7.80.
+[11:03:00] [main/INFO]: Registering Item Groups for cratedelight
+[11:03:00] [main/INFO]: Registering ModBLocks for cratedelight
+[11:03:00] [main/INFO]: [STDOUT]: All 27 have been set properly
+[11:03:01] [main/INFO]: Merged Elytra Loaded!
+[11:03:01] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/blueberry_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/end_fish_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/beetroot_crate, skipping: Unknown resource condition key: fabric:all_mods_not_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/ground_cinnamon_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/peanut_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/wheat_flour_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/duck_egg_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/kiwifruit_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/ender_dust_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/potato_crate, skipping: Unknown resource condition key: fabric:all_mods_not_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/cinder_flour_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/salt_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/powdered_obsidian_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/bass_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/carrot_crate, skipping: Unknown resource condition key: fabric:all_mods_not_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/kiwi_egg_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/ERROR]: Failed to parse resource conditions for file of type loot_table with id cratedelight:blocks/catfish_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:03] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called bat_membranes:entities/bat
+[11:03:04] [Worker-Main-13/ERROR]: Couldn't parse data file exlinecopperequipment:recipes/misc/copper_bucket from exlinecopperequipment:advancement/recipes/misc/copper_bucket.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 6 path $.rewards.recipes[1]
+	at net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1489) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:2071) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2033) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 6 path $.rewards.recipes[1]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1659) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1465) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:569) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.1.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.1.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:wheat_flour_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:duck_eggs, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:kiwi_egg_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:kiwi_fruit, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:end_fish, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:beetroots, skipping: Unknown resource condition key: fabric:all_mods_not_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:ender_dust_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:end_fish_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:potatoes, skipping: Unknown resource condition key: fabric:all_mods_not_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:salt, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:cinder_flour_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:catfish_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:potato_crate, skipping: Unknown resource condition key: fabric:all_mods_not_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:cinder_flour, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:blueberries, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:duck_egg_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:kiwi_fruit_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:powdered_obsidian, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:kiwi_egg, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:ground_cinnamon, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:catfish, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:peanut_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:blueberry_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:bass, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:wheat_flour, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:peanuts, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:carrots, skipping: Unknown resource condition key: fabric:all_mods_not_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:carrot_crate, skipping: Unknown resource condition key: fabric:all_mods_not_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:powdered_obsidian_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:salt_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:ender_dust, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:bass_crate, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:beetroot_crate, skipping: Unknown resource condition key: fabric:all_mods_not_loaded
+[11:03:04] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id cratedelight:ground_cinnamon_bag, skipping: Unknown resource condition key: fabric:any_mod_loaded
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:wheat_flour_bag
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"create:wheat_flour"}]; Second: Failed to parse either. First: Not a json array: {"item":"create:wheat_flour"}; Second: No key tag in MapLike[{"item":"create:wheat_flour"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create:wheat_flour
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:duck_eggs
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: naturalist:duck_egg
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:kiwi_egg_crate
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"jagmkiwis:kiwi_egg"}]; Second: Failed to parse either. First: Not a json array: {"item":"jagmkiwis:kiwi_egg"}; Second: No key tag in MapLike[{"item":"jagmkiwis:kiwi_egg"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: jagmkiwis:kiwi_egg
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_shovel_smelt
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:kiwi_fruit
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: jagmkiwis:kiwi_fruit
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:end_fish
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: betterend:end_fish_raw
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_axe_blast
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_hammer_blast
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"warhammersmod:hammer_copper"}]; Second: Failed to parse either. First: Not a json array: {"item":"warhammersmod:hammer_copper"}; Second: No key tag in MapLike[{"item":"warhammersmod:hammer_copper"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: warhammersmod:hammer_copper
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:ender_dust_bag
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"betterend:ender_dust"}]; Second: Failed to parse either. First: Not a json array: {"item":"betterend:ender_dust"}; Second: No key tag in MapLike[{"item":"betterend:ender_dust"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: betterend:ender_dust
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_hoe_smelt
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:end_fish_crate
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"betterend:end_fish_raw"}]; Second: Failed to parse either. First: Not a json array: {"item":"betterend:end_fish_raw"}; Second: No key tag in MapLike[{"item":"betterend:end_fish_raw"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: betterend:end_fish_raw
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_helm_blast
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_leggs_smelt
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_sword_blast
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:salt
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: expandeddelight:ground_salt
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:cinder_flour_bag
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"create:cinder_flour"}]; Second: Failed to parse either. First: Not a json array: {"item":"create:cinder_flour"}; Second: No key tag in MapLike[{"item":"create:cinder_flour"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create:cinder_flour
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_hoe_blast
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:catfish_crate
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"naturalist:catfish"}]; Second: Failed to parse either. First: Not a json array: {"item":"naturalist:catfish"}; Second: No key tag in MapLike[{"item":"naturalist:catfish"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: naturalist:catfish
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:cinder_flour
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create:cinder_flour
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:blueberries
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: nutritious-feast:blueberries
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:duck_egg_crate
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"naturalist:duck_egg"}]; Second: Failed to parse either. First: Not a json array: {"item":"naturalist:duck_egg"}; Second: No key tag in MapLike[{"item":"naturalist:duck_egg"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: naturalist:duck_egg
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:kiwi_fruit_crate
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"jagmkiwis:kiwi_fruit"}]; Second: Failed to parse either. First: Not a json array: {"item":"jagmkiwis:kiwi_fruit"}; Second: No key tag in MapLike[{"item":"jagmkiwis:kiwi_fruit"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: jagmkiwis:kiwi_fruit
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_pick_blast
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:powdered_obsidian
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create:powdered_obsidian
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_sword_smelt
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:kiwi_egg
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: jagmkiwis:kiwi_egg
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_horse_armor_smelt
+com.google.gson.JsonParseException: Not a JSON object: "minecraft:copper_ingot"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:ground_cinnamon
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: expandeddelight:ground_cinnamon
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_hammer_smelt
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"id":"warhammersmod:hammer_copper"}]; Second: Failed to parse either. First: Not a json array: {"id":"warhammersmod:hammer_copper"}; Second: No key tag in MapLike[{"id":"warhammersmod:hammer_copper"}]; No key item in MapLike[{"id":"warhammersmod:hammer_copper"}]
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:catfish
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: naturalist:catfish
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:peanut_crate
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"expandeddelight:peanut"}]; Second: Failed to parse either. First: Not a json array: {"item":"expandeddelight:peanut"}; Second: No key tag in MapLike[{"item":"expandeddelight:peanut"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: expandeddelight:peanut
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:blueberry_crate
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"nutritious-feast:blueberries"}]; Second: Failed to parse either. First: Not a json array: {"item":"nutritious-feast:blueberries"}; Second: No key tag in MapLike[{"item":"nutritious-feast:blueberries"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: nutritious-feast:blueberries
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:bass
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: naturalist:bass
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_horse_armor_blast
+com.google.gson.JsonParseException: Not a JSON object: "minecraft:copper_ingot"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_boots_blast
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:wheat_flour
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create:wheat_flour
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_boots_smelt
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:peanuts
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: expandeddelight:peanut
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_pick_smelt
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:powdered_obsidian_bag
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"create:powdered_obsidian"}]; Second: Failed to parse either. First: Not a json array: {"item":"create:powdered_obsidian"}; Second: No key tag in MapLike[{"item":"create:powdered_obsidian"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create:powdered_obsidian
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:salt_bag
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"expandeddelight:ground_salt"}]; Second: Failed to parse either. First: Not a json array: {"item":"expandeddelight:ground_salt"}; Second: No key tag in MapLike[{"item":"expandeddelight:ground_salt"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: expandeddelight:ground_salt
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:ender_dust
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: betterend:ender_dust
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_chest_smelt
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:bass_crate
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"naturalist:bass"}]; Second: Failed to parse either. First: Not a json array: {"item":"naturalist:bass"}; Second: No key tag in MapLike[{"item":"naturalist:bass"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: naturalist:bass
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_shovel_blast
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_chest_blast
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe cratedelight:ground_cinnamon_bag
+com.google.gson.JsonParseException: Map entry '#' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"expandeddelight:ground_cinnamon"}]; Second: Failed to parse either. First: Not a json array: {"item":"expandeddelight:ground_cinnamon"}; Second: No key tag in MapLike[{"item":"expandeddelight:ground_cinnamon"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: expandeddelight:ground_cinnamon
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_axe_smelt
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_leggs_blast
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_hammer_recipe
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: warhammersmod:hammer_copper
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_helm_smelt
+com.google.gson.JsonParseException: Not a JSON object: "exlinecopperequipment:copper_nugget"
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21-loader.0.15.11-launcher.1.0.1.jar:1.0.1]
+[11:03:04] [main/INFO]: Loaded 1653 recipes
+[11:03:05] [main/ERROR]: Parsing error loading custom advancement alcohol-only:jaegermeister: Failed to get element shield:jaegermeister_item missed input: {"requirement":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["shield:jaegermeister_item"]}]}}}; No key id in MapLike[{"item":"shield:jaegermeister_item"}]
+[11:03:05] [main/ERROR]: Parsing error loading custom advancement exlinecopperequipment:recipes/misc/copper_pickaxe: Failed to get element minecraft:copper_pickaxe missed input: {"has_ingredient":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["minecraft:copper_pickaxe"]}]}}}
+[11:03:05] [main/ERROR]: Parsing error loading custom advancement alcohol-only:beer: Failed to get element shield:beer_item missed input: {"requirement":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["shield:beer_item"]}]}}}; No key id in MapLike[{"item":"shield:beer_item"}]
+[11:03:05] [main/INFO]: Loaded 1656 advancements
+[11:03:05] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:candle
+[11:03:05] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.030 ms
+[11:03:06] [Server thread/INFO]: Starting minecraft server version 1.21
+[11:03:06] [Server thread/INFO]: Loading properties
+[11:03:06] [Server thread/INFO]: Default game type: SURVIVAL
+[11:03:06] [Server thread/INFO]: Generating keypair
+[11:03:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:03:06] [Server thread/INFO]: Using default channel type
+[11:03:06] [Server thread/INFO]: Preparing level "world"
+[11:03:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:03:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:03:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:03:09] [Server thread/INFO]: Time elapsed: 977 ms
+[11:03:09] [Server thread/INFO]: Done (2.275s)! For help, type "help"
+[11:17:15] [User Authenticator #1/INFO]: UUID of player kleinedwergje35 is 40b42b9d-8e14-434b-9ac5-5687935611f1
+[11:17:17] [Server thread/INFO]: kleinedwergje35[/26.180.46.74:52368] logged in with entity id 130 at (-70.3403272571246, 69.5625, -57.39593280418011)
+[11:17:17] [Server thread/INFO]: kleinedwergje35 joined the game
+[11:20:09] [Server thread/INFO]: Villager class_1646['Farmer'/1995, l='ServerLevel[world]', x=-914.50, y=143.00, z=1686.49] died, message: 'Farmer froze to death'
+[11:25:33] [Server thread/INFO]: kleinedwergje35 lost connection: Disconnected
+[11:25:33] [Server thread/INFO]: kleinedwergje35 left the game
+[11:37:08] [User Authenticator #2/INFO]: UUID of player Lerak08 is 0431ec20-f869-4785-affe-3955282f9b77
+[11:37:09] [Server thread/INFO]: Lerak08[/26.58.3.28:50653] logged in with entity id 4411 at (30.324890047475222, 77.0, 56.620439636000334)
+[11:37:09] [Server thread/INFO]: Lerak08 joined the game
+[12:05:19] [Server thread/INFO]: Lerak08 lost connection: Disconnected
+[12:05:19] [Server thread/INFO]: Lerak08 left the game
+[12:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11000ms or 220 ticks behind
+[12:05:52] [User Authenticator #3/INFO]: UUID of player Lerak08 is 0431ec20-f869-4785-affe-3955282f9b77
+[12:05:53] [Server thread/INFO]: Lerak08[/26.58.3.28:50780] logged in with entity id 26185 at (-378.1542174281521, 65.0, -1155.065496086816)
+[12:05:53] [Server thread/INFO]: Lerak08 joined the game
+[12:06:06] [Server thread/INFO]: Lerak08 lost connection: Disconnected
+[12:06:06] [Server thread/INFO]: Lerak08 left the game
+[12:06:19] [Server thread/INFO]: Stopping server
+[12:06:19] [Server thread/INFO]: Saving players
+[12:06:19] [Server thread/INFO]: Saving worlds
+[12:06:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:06:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:06:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:06:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:06:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:06:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:06:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
